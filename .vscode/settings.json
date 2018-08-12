@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3b590a77-226c-4319-9050-e2aabe508568/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/ReactAzureDemo",
+    "appService.deploySubpath": ""
+}
