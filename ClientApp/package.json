@@ -23,7 +23,7 @@
     "react-bootstrap-table-next": "1.1.1"
   },
   "engines": {
-    "node": "8.11.3",
+    "node": "8.9.4",
     "npm": "5.6.0"
   }
 }
