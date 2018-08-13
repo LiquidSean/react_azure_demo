@@ -20,7 +20,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-bootstrap-table-next": "1.1.0",
-    "underscore": "1.9.1"
+    "react-bootstrap-table-next": "1.1.1"
   }
 }
